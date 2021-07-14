@@ -24,7 +24,7 @@ body {
 }
 
 .notfound {
-  max-width: 1000px;
+  max-width: 1500px;
   width: 100%;
   text-align: center;
   line-height: 1.4;
@@ -52,7 +52,7 @@ body {
 .notfound p {
   font-family: 'Josefin Sans', sans-serif;
   color: #c9c9c9;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 400;
   margin-top: 0px;
   margin-bottom: 15px;
@@ -60,7 +60,7 @@ body {
 
 .notfound a {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 24px;
+  font-size: 18px;
   text-decoration: none;
   text-transform: uppercase;
   background: transparent;
